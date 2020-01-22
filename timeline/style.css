@@ -100,7 +100,7 @@
     padding: 8px 12px;
     background: rgb(255, 169, 8);
     color: #fff;
-    border-radius: 0px;
+    border-radius: 50px;
     box-shadow: 0 0 0 3px rgb(255, 169, 7);
 }
 .timeline ul li:nth-child(even) .time
@@ -112,7 +112,7 @@
     padding: 8px 12px;
     background: rgb(255, 169, 8);
     color: #fff;
-    border-radius: 0px;
+    border-radius: 50px;
     box-shadow: 0 0 0 3px rgb(255, 169, 7);
 }
 h1
