@@ -58,9 +58,9 @@
     right: -6px;
     width: 10px;
     height: 10px;
-    background: rgb(255, 169, 8);
+    background: rgb(0, 167, 204);
     border-radius: 50%;
-    box-shadow: 0 0 0 3px rgb(255, 169, 7);
+    box-shadow: 0 0 0 3px rgb(0, 167, 204);
 }
 .timeline ul li:nth-child(even):before
 {
@@ -70,9 +70,9 @@
     left: -4px;
     width: 10px;
     height: 10px;
-    background: rgb(255, 180, 101);
+    background: rgb(0, 167, 204);
     border-radius: 50%;
-    box-shadow: 0 0 0 3px rgb(255, 169, 7);
+    box-shadow: 0 0 0 3px rgb(0, 167, 204);
 }
 .timeline ul li h3
 {
@@ -98,10 +98,10 @@
     right: -195px;
     margin: 0;
     padding: 8px 12px;
-    background: rgb(255, 169, 8);
+    background: rgb(0, 167, 204);
     color: #fff;
     border-radius: 50px;
-    box-shadow: 0 0 0 3px rgb(255, 169, 7);
+    box-shadow: 0 0 0 3px rgb(0, 167, 204);
 }
 .timeline ul li:nth-child(even) .time
 {
@@ -110,10 +110,10 @@
     left: -195px;
     margin: 0;
     padding: 8px 12px;
-    background: rgb(255, 169, 8);
+    background: rgb(0, 167, 204);
     color: #fff;
     border-radius: 50px;
-    box-shadow: 0 0 0 3px rgb(255, 169, 7);
+    box-shadow: 0 0 0 3px rgb(0, 167, 204);
 }
 h1
 {
